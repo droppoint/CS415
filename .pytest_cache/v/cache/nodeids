@@ -1,0 +1,8 @@
+[
+  "tests/test_views.py::TestCS415API::()::test_post_submission_1_wo_header",
+  "tests/test_views.py::TestCS415API::()::test_post_submission_1_invalid_header",
+  "tests/test_views.py::TestCS415API::()::test_post_submission_1",
+  "tests/test_views.py::TestCS415API::()::test_put_submission_2_wo_header",
+  "tests/test_views.py::TestCS415API::()::test_put_submission_2_invalid_header",
+  "tests/test_views.py::TestCS415API::()::test_put_submission_2"
+]
